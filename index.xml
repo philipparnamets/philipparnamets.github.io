@@ -28,41 +28,5 @@ Setup    Some fun facts about Hugo:
       <description>Follow me, @johndoe.</description>
     </item>
     
-    <item>
-      <title>Contato</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
   </channel>
 </rss>
