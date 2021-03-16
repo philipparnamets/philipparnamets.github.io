@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.example.com/pt-br/authors/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +14,7 @@
                 href="http://www.example.com/pt-br/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/pt-br/categories/blog/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.example.com/pt-br/categories/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,67 +26,6 @@
                 href="http://www.example.com/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/pt-br/posts/dummy/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/pt-br/tags/hugo/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
-                />
-  </url><url>
-    <loc>http://www.example.com/pt-br/tags/i18n/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/pt-br/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
-                />
-  </url><url>
-    <loc>http://www.example.com/pt-br/posts/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
-                />
-  </url><url>
-    <loc>http://www.example.com/pt-br/tags/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
-                />
-  </url><url>
-    <loc>http://www.example.com/pt-br/authors/translation-test/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.example.com/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,6 +36,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://www.example.com/pt-br/contact/"
+                />
+  </url><url>
+    <loc>http://www.example.com/pt-br/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/"
                 />
   </url><url>
     <loc>http://www.example.com/pt-br/projects/</loc>
@@ -138,6 +84,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://www.example.com/pt-br/about/"
+                />
+  </url><url>
+    <loc>http://www.example.com/pt-br/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/tags/"
                 />
   </url>
 </urlset>
