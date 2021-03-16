@@ -1,8 +1,9 @@
 ---
 date: "2021-03-17T00:22:00+01:00"
-draft: true
+draft: false
 slug: ""
 title: "Publications test"
+output: blogdown::html_page
 ---
 
 
