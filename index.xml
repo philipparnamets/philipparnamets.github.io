@@ -7,17 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://philipparnamets.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Hugo</title>
+      <title>About my research</title>
       <link>https://philipparnamets.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://philipparnamets.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-For full CV:  
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup    Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>My research is broadly focused around three areas of interest: i) moral cognition; ii) memory and decision making; and, iii) social learning. I use multiple methodologies in my work including behavioral data, computational modelling, eye-tracking and physiology. My work emphasises the dynamic nature of social and cognitive processes.
+Moral cognition    How are moral decisions made and to what extent do they rely on domain-general cognitive processes such as visual attention and information sampling?</description>
     </item>
     
     <item>
@@ -35,7 +31,8 @@ Setup    Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://philipparnamets.github.io/cv/</guid>
-      <description>For full CV:  
+      <description>Check
+For full CV:  
 Electronic versions are provided as a professional courtesy to ensure timely dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein resides with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.
 Pre-prints    Pärnamets, P., von Zimmermann, J., Raafat, R., Vogel, G., Hall, L., Chater, N., &amp;amp; Johansson, P. (submitted). Choice blindness and choice-induced preference change in groups.</description>
     </item>
