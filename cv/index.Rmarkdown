@@ -3,7 +3,7 @@ date: "2021-03-17T00:22:00+01:00"
 draft: false
 slug: ""
 title: "Publications"
-output: blogdown::html_page
+#output: blogdown::html_page
 ---
 
 
