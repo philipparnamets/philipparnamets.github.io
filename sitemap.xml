@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://philipparnamets.github.io/cv/</loc>
-    <lastmod>2021-03-17T00:22:00+01:00</lastmod>
-  </url><url>
     <loc>https://philipparnamets.github.io/about/</loc>
   </url><url>
     <loc>https://philipparnamets.github.io/authors/</loc>
@@ -14,6 +11,8 @@
     <loc>https://philipparnamets.github.io/contact/</loc>
   </url><url>
     <loc>https://philipparnamets.github.io/</loc>
+  </url><url>
+    <loc>https://philipparnamets.github.io/cv/</loc>
   </url><url>
     <loc>https://philipparnamets.github.io/series/</loc>
   </url><url>
